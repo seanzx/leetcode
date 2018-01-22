@@ -15,4 +15,4 @@ def isPrimes(N):
 			return False
 	return True
 
-print(countPrimeSetBits(6,10))
+print(countPrimeSetBits(6,10)) 
